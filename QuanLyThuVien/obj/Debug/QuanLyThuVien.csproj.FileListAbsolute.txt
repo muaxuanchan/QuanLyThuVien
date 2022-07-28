@@ -1,0 +1,390 @@
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\JacksiroKe.MdiTabCtrl.dll
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fInfor.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fDocGia.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fHeThong.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiDocGia.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhaXuatBan.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTacGia.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fSach.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiSach.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fMuonSach.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTraSach.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddDocGia.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiSach.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddNhaXuatBan.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddSach.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddTacGia.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiDocGia.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.fAddTaiKhoan.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAdmin.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountInfor.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fChangePassWord.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeSach.resources
+D:\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeDocGia.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\JacksiroKe.MdiTabCtrl.dll
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountInfor.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fChangePassWord.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.fAddTaiKhoan.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAdmin.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddDocGia.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiDocGia.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiSach.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddNhaXuatBan.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddSach.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddTacGia.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fDocGia.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fInfor.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiDocGia.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiSach.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fMuonSach.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhaXuatBan.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fHeThong.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fSach.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTacGia.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTraSach.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeDocGia.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeSach.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\JacksiroKe.MdiTabCtrl.dll
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountInfor.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.fAddTaiKhoan.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAdmin.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddDocGia.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiDocGia.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiSach.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddNhaXuatBan.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddSach.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddTacGia.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fDocGia.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiDocGia.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiSach.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fMuonSach.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhaXuatBan.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fSach.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTacGia.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTraSach.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeDocGia.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeSach.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fManager.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\JacksiroKe.MdiTabCtrl.dll
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountInfor.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.fAddTaiKhoan.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAdmin.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddDocGia.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiDocGia.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiSach.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddNhaXuatBan.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddSach.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddTacGia.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fDocGia.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiDocGia.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiSach.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fMuonSach.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhaXuatBan.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fManager.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fSach.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTacGia.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTraSach.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeDocGia.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeSach.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\A\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\JacksiroKe.MdiTabCtrl.dll
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountInfor.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.fAddTaiKhoan.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAdmin.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddDocGia.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiDocGia.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiSach.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddNhaXuatBan.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddSach.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddTacGia.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fDocGia.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiDocGia.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiSach.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fMuonSach.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhaXuatBan.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fManager.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fSach.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTacGia.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTraSach.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeSach.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMuonTraSach.fAddPhieuMuon.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormRule.fRule.resources
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.ResolveComReference.cache
+E:\Source Code\Source code QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\JacksiroKe.MdiTabCtrl.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.ResolveComReference.cache
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMuonTraSach.fAddPhieuMuon.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormRule.fRule.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountInfor.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.fAddTaiKhoan.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAdmin.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddDocGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiDocGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddNhaXuatBan.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddTacGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fDocGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiDocGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fMuonSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhaXuatBan.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fManager.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTacGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTraSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\EnvDTE.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\stdole.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.MSXML.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\EPPlus.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\EPPlus.Interfaces.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\EPPlus.System.Drawing.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\EPPlus.xml
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fImportFileExcel.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\RdlCompile.cache
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\RdlCompile.compiled
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormPhieuThu.fInforDocGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormPhieuThu.fPhieuPhat.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormPhieuThu.fPhieuThu.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormPhieuThu.fAddPhieuThu.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormPhieuThu.fAddPhieuPhat.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormReport.fTestReport1.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\FormReport\rQuaHan.rdlc
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormReport.fSearch.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\FormReport\rQuaHan.rdlc
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\EPPlus.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\EPPlus.Interfaces.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\EPPlus.System.Drawing.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\JacksiroKe.MdiTabCtrl.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\EnvDTE.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\stdole.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.MSXML.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\EPPlus.xml
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.ResolveComReference.cache
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormPhieuThu.fAddPhieuPhat.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormPhieuThu.fAddPhieuThu.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormPhieuThu.fInforDocGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormPhieuThu.fPhieuPhat.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormPhieuThu.fPhieuThu.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormReport.fTestReport1.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormReport.fSearch.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fImportFileExcel.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormMuonTraSach.fAddPhieuMuon.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormRule.fRule.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAccountInfor.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLogin.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.fAddTaiKhoan.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAdmin.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddDocGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiDocGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddLoaiSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddNhaXuatBan.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fAddTacGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fDocGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiDocGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fLoaiSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fMuonSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fNhaXuatBan.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fManager.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTacGia.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fTraSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.fThongKeSach.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\RdlCompile.cache
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\RdlCompile.compiled
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\Báo cáo TTKL\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
